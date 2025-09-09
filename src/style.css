@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "tailwindcss-primeui";
+
+
+
+@layer base {
+body{
+    --my-menubar-item-focus-color: green;
+    font-family: var(--font-mono);
+    --my-menubar-border-radius: 200px;
+    
+
+}
+h1{
+    font-size: var(--text-3xl);
+    font-weight: var(--font-bold);
+}
+
+a:hover {
+    color: green;
+}
+
+}
