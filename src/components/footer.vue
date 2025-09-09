@@ -13,7 +13,7 @@
             </div>
 
             <div class="flex-1 px-4 text-center">
-                <a href="#/datenschutz" class="hover:underline">Datenschutz</a>
+                <a href="#/datenschutz" class="hover:underline">Datenschutz</a> <br/>
                 Musterfirma GmbH <br/>
                 Hauptstraße 123 <br/>
                 12345 Beispielstadt <br/>
